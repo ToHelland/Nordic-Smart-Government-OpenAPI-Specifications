@@ -1,0 +1,1 @@
+# Nordic-Smart-Government-OpenAPI-Specifications
